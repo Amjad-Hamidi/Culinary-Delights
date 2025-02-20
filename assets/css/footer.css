@@ -1,0 +1,26 @@
+footer .social-media a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ddd;
+    color: #333;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+footer .social-media a:hover {
+    background-color: #007bff;
+    color: white;
+    transform: scale(1.2);
+    box-shadow: 0 4px 10px rgba(0, 123, 255, 0.5);
+}
+
+/* Adding space between icons */
+footer .social-media a:not(:last-child) {
+    margin-right: 10px;
+}

@@ -1,0 +1,8 @@
+
+.category-styling:hover{
+    background-color: rgb(207, 129, 129);
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgb(113, 135, 145);
+    color: #fff;
+    font-size: large;
+}
