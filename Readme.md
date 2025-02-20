@@ -24,14 +24,16 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/Amjad-Hamidi/Meals-Project.git
-Navigate to the project directory:
-sh
-Copy
-Edit
+   ```
+2. **Navigate to the project directory**:
+```sh
 cd Meals-Project
-Open index.html in a browser to view the application.
+```
+3. **Open `index.html` in a browser to view the application.**
 📷 Screenshots
-(Include a screenshot here if available)
+![Screenshot of the application](assets/img/screenshot%20app1.png)
+![Screenshot of the application](assets/img/screenshot%20app2.png)
+![Screenshot of the application](assets/img/screenshot%20app3.png)
 
 📄 License
 This project is open-source and available under the MIT License.
@@ -39,9 +41,6 @@ This project is open-source and available under the MIT License.
 📂 Project Structure
 The project structure is organized as follows:
 
-graphql
-Copy
-Edit
 Meals-Project/
 │
 ├── index.html         # Main HTML file
@@ -52,11 +51,7 @@ Meals-Project/
 │   └── api.js         # API handling for fetching meal data
 ├── img/               # Folder for images
 └── README.md          # Project documentation
+
 🔧 How to Contribute
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
-
-python
-Copy
-Edit
-
 These changes should help enhance clarity and maintainability. Let me know if you need any further adjustments!
