@@ -35,10 +35,10 @@ cd Meals-Project
 ![Screenshot of the application](assets/img/screenshot%20app2.png)
 ![Screenshot of the application](assets/img/screenshot%20app3.png)
 
-📄 License
+📄 **License**  
 This project is open-source and available under the MIT License.
 
-📂 Project Structure
+📂 **Project Structure**  
 The project structure is organized as follows:
 
 Meals-Project/
@@ -52,6 +52,6 @@ Meals-Project/
 ├── img/               # Folder for images
 └── README.md          # Project documentation
 
-🔧 How to Contribute
+
+🔧 **How to Contribute**  
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
-These changes should help enhance clarity and maintainability. Let me know if you need any further adjustments!
