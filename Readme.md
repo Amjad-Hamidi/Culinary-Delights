@@ -41,6 +41,7 @@ This project is open-source and available under the MIT License.
 📂 **Project Structure**  
 The project structure is organized as follows:
 
+```sh
 Meals-Project/
 │
 ├── index.html         # Main HTML file
@@ -51,7 +52,7 @@ Meals-Project/
 │   └── api.js         # API handling for fetching meal data
 ├── img/               # Folder for images
 └── README.md          # Project documentation
-
+```
 
 🔧 **How to Contribute**  
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
