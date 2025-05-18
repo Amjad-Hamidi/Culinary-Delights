@@ -1,7 +1,7 @@
-# Meals Project
+# Culinary Delights
 
 ## 📌 About the Project
-The **Meals Project** is an interactive web application that showcases popular food categories, allowing users to explore a variety of meals in detail. The project is designed with a modern and attractive user interface, making it easy to navigate and discover new meals.
+The **Culinary Delights** is an interactive web application that showcases popular food categories, allowing users to explore a variety of meals in detail. The project is designed with a modern and attractive user interface, making it easy to navigate and discover new meals.
 
 ## ✨ Features
 - **Dynamic Meal Categories**: Users can browse through various meal categories such as appetizers, main courses, desserts, and beverages.
@@ -40,18 +40,33 @@ This project is open-source and available under the MIT License.
 
 📂 **Project Structure**  
 The project structure is organized as follows:
-
 ```sh
-Meals-Project/
+Culinary Delights/
 │
-├── index.html         # Main HTML file
-├── css/               # Folder for CSS files
-│   └── styles.css     # Custom styles for the project
-├── js/                # Folder for JavaScript files
-│   ├── main.js        # Main JavaScript file handling interactivity
-│   └── api.js         # API handling for fetching meal data
-├── img/               # Folder for images
-└── README.md          # Project documentation
+├── about.html                      # About page
+├── categoryDetails.html           # Category details page
+├── index.html                     # Main homepage
+├── README.md                      # Project documentation
+├── assets/                        # Folder for all static assets
+│   ├── css/                       # Folder for CSS files
+│   │   ├── about.css
+│   │   ├── base.css
+│   │   ├── category.css
+│   │   ├── footer.css
+│   │   ├── main.css
+│   │   ├── meal.css
+│   │   └── media-screen.css
+│   ├── img/                       # Folder for images
+│   │   ├── Amjad.jpeg
+│   │   ├── project1.png
+│   │   ├── project2.png
+│   │   ├── project3.png
+│   │   ├── screenshot app1.png
+│   │   ├── screenshot app2.png
+│   │   └── screenshot app3.png
+│   └── js/                        # Folder for JavaScript files
+│       ├── categoryDetails.js
+│       └── main.js
 ```
 
 🔧 **How to Contribute**  
