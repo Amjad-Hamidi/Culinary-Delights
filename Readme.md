@@ -23,11 +23,11 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Amjad-Hamidi/Meals-Project.git
+   git clone https://github.com/Amjad-Hamidi/Culinary-Delights.git
    ```
 2. **Navigate to the project directory**:
 ```sh
-cd Meals-Project
+cd Culinary-Delights
 ```
 3. **Open `index.html` in a browser to view the application.**
 📷 Screenshots
